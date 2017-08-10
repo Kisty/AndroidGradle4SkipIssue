@@ -14,7 +14,7 @@ import static org.junit.Assume.assumeTrue;
 public class BreakGradle4Test {
 
     @Test
-    public void skipThis() throws Exception {
+    public void skippyMcskipface() throws Exception {
         assumeTrue(false);
     }
 }
